@@ -25,9 +25,9 @@ The project is organized into the following main parts:
 
 ### 4) Model Evaluation:
 
-       •  We calculate the accuracy of each classifier using appropriate evaluation metrics.
-       •  The model with the highest accuracy will be considered the best model for this dataset.
-    
+We calculate the accuracy of each classifier using appropriate evaluation metrics.
+The model with the highest accuracy will be considered the best model for this dataset.
+
 ## Dependencies
 
 The following libraries are required to run this project:
