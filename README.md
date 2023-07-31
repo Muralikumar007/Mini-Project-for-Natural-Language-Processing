@@ -46,4 +46,4 @@ Ensure you have these libraries installed before running the project.
 ## Conclusion
 
      •  This mini project demonstrates the application of NLP techniques for text data preprocessing and the implementation of various classifiers for categorizing customer complaints. 
-     •  **The best-performing classifier is the Random Forest Classifier with its corresponding accuracy value.**
+     •  The best-performing classifier is the Random Forest Classifier with its corresponding accuracy value. **Accuracy value is 0.085**
