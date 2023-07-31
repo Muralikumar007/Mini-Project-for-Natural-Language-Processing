@@ -1,6 +1,8 @@
 # **Natural Language Processing Mini Project**
 
-    This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset. The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints. We will be using several NLP techniques and algorithms to achieve this.
+    •  This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset.
+    •  The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints.
+    •  We will be using several NLP techniques and algorithms to achieve this.
 
 ## Project Structure
 
@@ -39,8 +41,11 @@ Ensure you have these libraries installed before running the project.
 
 ## Results
      
-     After running the notebook, you will find the accuracy values of the three classifiers: Random Forest, SVC, and Decision Tree. The classifier with the highest accuracy will be considered the best model for this dataset. The accuracy results will be displayed in the notebook after the training process.
+     •  After running the notebook, you will find the accuracy values of the three classifiers: Random Forest, SVC, and Decision Tree. 
+     •  The classifier with the highest accuracy will be considered the best model for this dataset. 
+     •  The accuracy results will be displayed in the notebook after the training process.
 
 ## Conclusion
 
-     This mini project demonstrates the application of NLP techniques for text data preprocessing and the implementation of various classifiers for categorizing customer complaints. **The best-performing classifier is the Random Forest Classifier with its corresponding accuracy value.**
+     •  This mini project demonstrates the application of NLP techniques for text data preprocessing and the implementation of various classifiers for categorizing customer complaints. 
+     •  **The best-performing classifier is the Random Forest Classifier with its corresponding accuracy value.**
