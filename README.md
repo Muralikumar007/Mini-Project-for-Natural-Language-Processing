@@ -31,10 +31,7 @@ The model with the highest accuracy will be considered the best model for this d
 ## Dependencies
 
 The following libraries are required to run this project:
-      1) pandas
-      2) numpy
-      3) nltk
-      4) scikit-learn
+pandas, numpy, nltk, scikit-learn.
 Ensure you have these libraries installed before running the project.
 
 ## Results
