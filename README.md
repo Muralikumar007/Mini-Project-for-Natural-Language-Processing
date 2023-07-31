@@ -1,8 +1,6 @@
 # **Natural Language Processing Mini Project**
 
-    •  This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset.
-    •  The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints.
-    •  We will be using several NLP techniques and algorithms to achieve this.
+This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset. The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints. We will be using several NLP techniques and algorithms to achieve this.
 
 ## Project Structure
 
