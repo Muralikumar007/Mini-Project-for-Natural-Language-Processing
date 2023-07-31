@@ -1,1 +1,1 @@
-# Mini-Project-for-Natural-Language-Processing
+# **Natural Language Processing Mini Project**
