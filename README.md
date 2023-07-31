@@ -1,6 +1,6 @@
 # **Natural Language Processing Mini Project**
 
-This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset. The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints. We will be using several **NLP techniques and algorithms **  to achieve this.
+This mini project focuses on Natural Language Processing (NLP) using the complaints_proceed.csv dataset. The main goal of this project is to preprocess the data and build classifiers to predict the category of the complaints. We will be using several **NLP techniques and algorithms**  to achieve this.
 
 ## Project Structure
 
@@ -8,14 +8,14 @@ The project is organized into the following main parts:
 
 ### 1) Data Preprocessing:
 
-#### Handling missing values: We use isnull() and dropna() to remove any rows with missing values.
+**Handling missing values:** We use isnull() and dropna() to remove any rows with missing values.
 **Stopword removal:** Stopwords are removed using a list of common stopwords from the NLTK library.
 **Special character and punctuation removal:** We remove any special characters and punctuation from the complaint text.
-**WordNet Lemmatization:** We apply WordNet Lemmatization to reduce words to their base or root form.****
+**WordNet Lemmatization:** We apply WordNet Lemmatization to reduce words to their base or root form.
 
 ### 2) Train-Test Split:
 
-     We split the preprocessed data into training and testing sets using the CountVectorizer method to convert the text data into numerical feature vectors.
+We split the preprocessed data into training and testing sets using the CountVectorizer method to convert the text data into numerical feature vectors.
 
 ### 3) Algorithms Used:
 
